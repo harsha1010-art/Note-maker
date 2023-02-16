@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Note-maker/static/css/main.0a9a8215.css",
+    "main.js": "/Note-maker/static/js/main.421f410d.js",
+    "static/js/787.498b43ac.chunk.js": "/Note-maker/static/js/787.498b43ac.chunk.js",
+    "index.html": "/Note-maker/index.html",
+    "main.0a9a8215.css.map": "/Note-maker/static/css/main.0a9a8215.css.map",
+    "main.421f410d.js.map": "/Note-maker/static/js/main.421f410d.js.map",
+    "787.498b43ac.chunk.js.map": "/Note-maker/static/js/787.498b43ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a9a8215.css",
+    "static/js/main.421f410d.js"
+  ]
+}
